@@ -1,2 +1,3 @@
 # Margin_4_Retail
 User enters selling and buying price for retail sales and a target margin where the system calculates how much to increase the selling price or decrease the buying price to reach goal.
+Designed for retail businesses handling large volumes of low-cost products. It calculates the optimal selling price or required purchase price adjustments to achieve a target profit margin. Given the purchase price and selling price of multiple products, the system provides how much to increase selling prices or negotiate lower buying prices to stay within profitability goals. Simple tool, can save hours of manual calculations in business transactions.
